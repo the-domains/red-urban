@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Red Urban]]></title>
-        <description><![CDATA[Red Urban]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Red Urban Amsterdam]]></title>
+        <description><![CDATA[Red Urban Amsterdam]]></description>
+        <link>https://thegrid.ai/red-urban/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 14:14:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 10:59:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/red-urban/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ibiza]]></title>
+            <description><![CDATA[<article><h1>Ibiza</h1><p>Hallo werkt dit?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dff44dc7-fe74-440c-a576-28d75de7d202.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/dff44dc7-fe74-440c-a576-28d75de7d202.jpg</link>
+            <guid isPermaLink="false">460736ba-0f9d-4e43-8e3c-f208da1fe3f5</guid>
+            <pubDate>Tue, 02 Aug 2016 10:58:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lay's Raad de Smaak]]></title>
-            <description><![CDATA[<h1>Lay's Raad de Smaak</h1>]]></description>
-            <link>undefinedlays-raad-de-smaak/index.html</link>
+            <description><![CDATA[<article><h1>Lay's Raad de Smaak</h1><h2>Een 'kickstart'
+in paid media bouwt in korte tijd bereik op. PR, TVC en pre-rolls zorgen voor
+de primaire awareness. De grote uitdaging is echter; hoe hou je een campagne 10
+weken interessant en zorg je tevens voor genoeg herhaalaankopen? </h2><p>Na 2 succesvolle campagnes waarin consumenten nieuwe smaken
+mochten bedenken, toont Lay's nu weer aan zelf de absolute smaakmaker te zijn.
+Met Raad de Smaak introduceert het merk 3 mysterysmaken en daagt daarmee heel
+Nederland uit om de juiste smaak te raden. Per smaak maak je kans op €10.000.
+Omdat Nederlanders graag hun mening geven en gek zijn op spelletjes is deze
+aanpak een schot in de roos.</p></article>]]></description>
+            <link>https://thegrid.ai/red-urban/lays-raad-de-smaak/index.html</link>
             <guid isPermaLink="false">734c71cd-46bc-4384-a305-3411633e6b39</guid>
             <pubDate>Thu, 24 Dec 2015 14:14:43 GMT</pubDate>
         </item>
